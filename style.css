@@ -72,3 +72,28 @@ p {
     color: #333;
     line-height: 1.6;
 }
+.food-item{
+    color:#edb4dc
+
+}
+.game-item{
+    color:#edb4dc
+}
+.animal-item{
+    color:#edb4dc 
+}
+.fun-fact-box{
+    color: #f782dd62;
+    background-color: rgba(241, 168, 226, 0.8);
+    font-size: 20px;
+    text-shadow: 2px 2px #bef3c5;
+    }
+.fun-fact-box2{ 
+    color:#f782dd62;
+    background: rgba(188, 235, 192, 0.8);
+    font-size: 20 px;
+    text-shadow: 2px 2px #f3f5a2;
+    border: radius 10px;
+
+    }
+    
